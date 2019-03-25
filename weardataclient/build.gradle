@@ -13,7 +13,7 @@ android {
         minSdkVersion 18
         targetSdkVersion 28
         versionCode 1
-        versionName "0.1.2"
+        versionName "0.1.3"
 
 
     }
@@ -40,8 +40,8 @@ dependencies {
 publish {
     userOrg = 'zq26zhangqi'      // bintray注册的用户名
     groupId = 'com.github.danielzq'
-    desc = 'v0.1.2 Release'
+    desc = 'v0.1.3 Release'
     artifactId = 'WearDataClient'// bintray创建的package
-    publishVersion = '0.1.2'
+    publishVersion = '0.1.3'
 }
 
