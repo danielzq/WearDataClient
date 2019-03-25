@@ -1,4 +1,4 @@
-package weardata.core;
+package weardata.demo;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

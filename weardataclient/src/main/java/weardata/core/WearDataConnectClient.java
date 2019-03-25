@@ -1,4 +1,4 @@
-package stationdm.wearconnection;
+package weardata.core;
 
 import android.content.Context;
 import android.net.Uri;

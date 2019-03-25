@@ -1,4 +1,4 @@
-package weardata.core;
+package weardata.demo;
 
 import org.junit.Test;
 

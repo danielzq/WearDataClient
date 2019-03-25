@@ -1,4 +1,4 @@
-package stationdm.wearconnection;
+package weardata.core;
 
 import android.arch.lifecycle.Lifecycle;
 import android.arch.lifecycle.LifecycleObserver;

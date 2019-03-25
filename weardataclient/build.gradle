@@ -40,8 +40,8 @@ dependencies {
 publish {
     userOrg = 'zq26zhangqi'      // bintray注册的用户名
     groupId = 'com.github.danielzq'
-    desc = 'v0.1 Release'
+    desc = 'v0.1.1 Release'
     artifactId = 'WearDataClient'// bintray创建的package
-    publishVersion = '0.1'
+    publishVersion = '0.1.1'
 }
 
